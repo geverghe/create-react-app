@@ -17,13 +17,3 @@ Once initialized, you can deploy the React example with just a single command:
 ```shell
 $ now
 ```
-
-
-
-
-test
-test
-test
-
-test
-test
